@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1413" dy="736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3533" dy="1840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="448" y="396" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="m1e6NG-cbiBUNu9YUHnD-14" value="准备工作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="761" y="399" width="113" height="113" as="geometry" />
+          <mxGeometry x="758" y="381" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="m1e6NG-cbiBUNu9YUHnD-15" value="读产生式配置文件&#xa;productions.cfg" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="924" y="422" width="258" height="66" as="geometry" />
+          <mxGeometry x="353" y="675" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="m1e6NG-cbiBUNu9YUHnD-16" value="文件是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1232" y="383" width="145" height="145" as="geometry" />
